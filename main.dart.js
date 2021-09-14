@@ -59122,7 +59122,7 @@ return T.dW(H.a([T.mI(H.a([L.bO(this.a.d,s,s,A.dc(s,s,C.j,s,s,s,s,s,s,s,s,s,s,s,
 $S:401}
 F.DP.prototype={
 J:function(a,b){var s=null,r=X.ahZ(C.a0),q=K.ax(b).a6,p=B.fb(q.a),o=B.fb(q.b),n=B.fb(q.c),m=B.fb(q.d),l=B.fb(q.e),k=B.fb(q.f),j=B.fb(q.r),i=B.fb(q.x),h=B.fb(q.y),g=B.fb(q.z),f=B.fb(q.Q)
-return new S.uD(new V.D_(s),"Flutter Demo",r.a0b(C.fk,C.bu,C.fk,R.a22(h,g,B.fb(q.ch),f,p,o,n,m,l,k,B.fb(q.cx),j,i).ZS(C.j).a00(A.dc(s,s,C.iK,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s),A.dc(s,s,C.iK,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s))),!1,s)}}
+return new S.uD(new V.D_(s),"lj's portfolio",r.a0b(C.fk,C.bu,C.fk,R.a22(h,g,B.fb(q.ch),f,p,o,n,m,l,k,B.fb(q.cx),j,i).ZS(C.j).a00(A.dc(s,s,C.iK,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s),A.dc(s,s,C.iK,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s))),!1,s)}}
 V.Ap.prototype={}
 B.F2.prototype={}
 T.F9.prototype={
